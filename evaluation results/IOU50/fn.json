@@ -1,0 +1,11 @@
+{
+    "bicycle": 126,
+    "bus": 130,
+    "car": 386,
+    "fire hydrant": 36,
+    "motorcycle": 207,
+    "parking meter": 28,
+    "stop sign": 17,
+    "traffic light": 42,
+    "truck": 213
+}
